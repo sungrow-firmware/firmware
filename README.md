@@ -1,2 +1,2 @@
 # Sungrow Firmware Archive
-Firmware archive for some Sungrow devices.
+Firmware archive for all Sungrow devices.
