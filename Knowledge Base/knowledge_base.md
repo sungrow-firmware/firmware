@@ -1,4 +1,4 @@
-# Sungrow Knolage Base
+# Sungrow Knowledge Base
 ## Winet-S Admin Access
 The derfault credentials for admin access:
 * username: admin
